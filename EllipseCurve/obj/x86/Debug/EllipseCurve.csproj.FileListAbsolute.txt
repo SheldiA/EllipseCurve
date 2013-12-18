@@ -1,0 +1,7 @@
+D:\Project c#\EllipseCurve\EllipseCurve\bin\Debug\EllipseCurve.exe
+D:\Project c#\EllipseCurve\EllipseCurve\bin\Debug\EllipseCurve.pdb
+D:\Project c#\EllipseCurve\EllipseCurve\obj\x86\Debug\EllipseCurve.FormMain.resources
+D:\Project c#\EllipseCurve\EllipseCurve\obj\x86\Debug\EllipseCurve.Properties.Resources.resources
+D:\Project c#\EllipseCurve\EllipseCurve\obj\x86\Debug\EllipseCurve.csproj.GenerateResource.Cache
+D:\Project c#\EllipseCurve\EllipseCurve\obj\x86\Debug\EllipseCurve.exe
+D:\Project c#\EllipseCurve\EllipseCurve\obj\x86\Debug\EllipseCurve.pdb
